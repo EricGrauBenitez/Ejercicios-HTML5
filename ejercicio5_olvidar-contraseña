@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de olvidarse la contraseña</title>
+</head>
+<body>
+    <div align="center"><img src="laptop.jpg" width="100" height="100"</div>
+    <h1>Recuperar la contraseña</h1>
+    <table style="width: 700px;">
+    <thead></thead>
+
+                <label>Correo electrónico</label>
+                <input type="email" name="email" id="email" placeholder="nombre@email.com">
+                <br><br>
+                <label>Nueva Contraseña:</label>
+                <input type="password" name="psw" id="password" placeholder="*******">
+                <br> <br>
+                   <button type="button">Recuperar</button>
+                   
+        </tbody>
+    </table>
+</form>
+    
+</body>
+</html>
